@@ -5,11 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.elexlab.cybercontroller.ui.widget.SevenPartDigitalTube
+    <com.mxy.cybercontroller.ui.widget.SevenPartDigitalTube
         android:id="@+id/timeHourHigh"
         android:layout_width="60dip"
         android:layout_height="120dip" />
-    <com.elexlab.cybercontroller.ui.widget.SevenPartDigitalTube
+    <com.mxy.cybercontroller.ui.widget.SevenPartDigitalTube
         android:id="@+id/timeHourLow"
         android:layout_marginLeft="15dip"
         android:layout_width="60dip"
@@ -23,13 +23,13 @@
         android:textSize="100sp"
         android:text=":"/>
 
-    <com.elexlab.cybercontroller.ui.widget.SevenPartDigitalTube
+    <com.mxy.cybercontroller.ui.widget.SevenPartDigitalTube
         android:id="@+id/timeMinHigh"
         android:layout_marginLeft="15dip"
         android:layout_width="60dip"
         android:layout_height="120dip" />
 
-    <com.elexlab.cybercontroller.ui.widget.SevenPartDigitalTube
+    <com.mxy.cybercontroller.ui.widget.SevenPartDigitalTube
         android:id="@+id/timeMinLow"
         android:layout_marginLeft="15dip"
         android:layout_width="60dip"
